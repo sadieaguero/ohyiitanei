@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eifuobohsu.krzysztof-sobkowiak.net/sitemap.xml
